@@ -6,8 +6,9 @@ This project was carried out by Léo Gloria and Mathéo Morin as part of the Har
 
 In this project, we adapted a non-addressable LED strip to make it controllable via WiFi. To achieve this, we used an ESP32 WiFi module that serves as a web server, allowing remote control of the LED strip from any device with a web browser.
 
-<!-- Ajoutez une image de l'interface de contrôle ici -->
-<!-- Exemple: ![LED Strip Control Interface](images/interface.jpg) -->
+![LED Strip Control Interface](images/image.png)
+
+*Figure 1: Interface web de contrôle de la bande LED*
 
 ## Hardware Components
 
@@ -58,10 +59,9 @@ The web server processes HTTP requests with specific parameters to control the L
 
 The following video demonstrates the LED strip in operation, controlled through the web interface:
 
-<!-- Ajoutez une vidéo de démonstration ici -->
-<!-- Exemple: [LED Strip Control Demo](videos/demo.mp4) -->
+[![Cliquez pour voir la démonstration](images/vid.jpg)](videos/IMG_8746-1.mov)
 
-Note: Pour ajouter des médias à ce projet, créez un dossier 'images' et/ou 'videos' et placez-y vos fichiers. Assurez-vous que les fichiers vidéo ne dépassent pas 100 MB pour être compatibles avec GitHub.
+*Figure 2: Démonstration du contrôle de la bande LED (cliquez sur l'image pour voir la vidéo)*
 
 ## Conclusion
 
