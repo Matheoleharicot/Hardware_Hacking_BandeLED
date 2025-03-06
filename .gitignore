@@ -1,0 +1,49 @@
+# Arduino build files
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+.vscode/
+
+# Compiled files
+*.o
+*.elf
+*.hex
+*.bin
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Build output
+build/
+dist/
