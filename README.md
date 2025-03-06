@@ -8,7 +8,7 @@ In this project, we adapted a non-addressable LED strip to make it controllable 
 
 ![LED Strip Control Interface](images/image.png)
 
-*Figure 1: Interface web de contrôle de la bande LED*
+*Figure 1: Web interface for LED strip control*
 
 ## Hardware Components
 
@@ -59,9 +59,10 @@ The web server processes HTTP requests with specific parameters to control the L
 
 The following video demonstrates the LED strip in operation, controlled through the web interface:
 
-[![Cliquez pour voir la démonstration](images/vid.jpg)](videos/IMG_8746-1.mov)
 
-*Figure 2: Démonstration du contrôle de la bande LED (cliquez sur l'image pour voir la vidéo)*
+**[Click here to watch the LED strip control demo video](videos/IMG_8746-1.mov)**
+
+*Figure 2: Demonstration of LED strip control (click the link above to watch the video)*
 
 ## Conclusion
 
